@@ -1,10 +1,10 @@
-<!-- Background Space Banner -->
+<!-- Space-themed Header -->
 <p align="center">
-  <img src="https://i.imgur.com/OH6ZC1f.gif" alt="space background" width="100%" />
+  <img src="https://i.imgur.com/eT4C4sK.gif" alt="space banner" width="100%" />
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Diwahar+S;Full-Stack+%7C+iOS+%7C+Flutter+Developer;Clean+UI+Lover+%F0%9F%92%BB;From+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&width=435&lines=Hi+👋,+I'm+Diwahar+S;Full-Stack+%7C+iOS+%7C+Flutter+Developer;Clean+UI+Lover+💻;From+India+🇮🇳" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -24,9 +24,10 @@
 
 ---
 
-### 🌙 3D-Like Animated Moon
+### 🌙 3D-Like Moon Animation
+
 <p align="center">
-  <img src="https://i.gifer.com/7VE.gif" width="200px" alt="Moon Animation">
+  <img src="https://i.imgur.com/q3x4XQ2.gif" width="200px" alt="Moon Animation" />
 </p>
 
 ---
@@ -68,7 +69,7 @@
 
 ---
 
-<!-- Footer Space Vibe -->
+<!-- Footer Space Animation -->
 <p align="center">
-  <img src="https://i.gifer.com/fxM.gif" alt="space floating" width="100%" />
+  <img src="https://i.imgur.com/KzE7B9P.gif" alt="stars animation" width="100%" />
 </p>
